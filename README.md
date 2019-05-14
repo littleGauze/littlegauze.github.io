@@ -1,6 +1,11 @@
 # littleGauze
 Node.js fullStack developer, [littleGauze](https://github.com/littleGauze)
 
+## Skills
+- **frontend**: vue、react、antd、dva
+- **backend**: koa、egg、express、mongodb、redis
+- **familiar with**: meteor、docker、shell、python、mysql、C
+
 ## Live Demos
 
 |name|address|live demo|
