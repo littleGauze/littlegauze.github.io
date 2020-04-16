@@ -10,7 +10,7 @@ Node.js fullStack developer, [littleGauze](https://github.com/littleGauze)
 
 |name|address|live demo|
 |:---:|:---:|:---:|
-|pets| [github](https://github.com/littleGauze/pets) | [demo](http://www.fun4l0ve.com)|
+|pets| [github](https://github.com/littleGauze/pets) | [demo](http://fun4l0ve.com)|
 |Cocos2048|[github](https://littlegauze.github.io/Cocos2048)|[demo](https://littlegauze.github.io/Cocos2048/build/web-mobile/)|
 |Weekly date picker| [github](https://github.com/littleGauze/weekly-date-picker) | [demo](https://littlegauze.github.io/weekly-date-picker/)|
 |Gluttonous Snake| [github](https://github.com/littleGauze/gluttonous-snake) | [demo](https://littlegauze.github.io/gluttonous-snake/build/)|
