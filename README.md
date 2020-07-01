@@ -11,8 +11,9 @@ Node.js fullStack developer, [littleGauze](https://github.com/littleGauze)
 |name|address|live demo|
 |:---:|:---:|:---:|
 |pets| [github](https://github.com/littleGauze/pets) | [demo](http://fun4l0ve.com)|
-|Cocos2048|[github](https://littlegauze.github.io/Cocos2048)|[demo](https://littlegauze.github.io/Cocos2048/build/web-mobile/)|
 |Weekly date picker| [github](https://github.com/littleGauze/weekly-date-picker) | [demo](https://littlegauze.github.io/weekly-date-picker/)|
-|Gluttonous Snake| [github](https://github.com/littleGauze/gluttonous-snake) | [demo](https://littlegauze.github.io/gluttonous-snake/build/)|
-|Jump (Cocos web-mobile)| [github](https://github.com/littleGauze/jump) | [demo](https://littlegauze.github.io/jump/build/web-mobile/)|
-|FlipTheBall| [github](https://github.com/littleGauze/flipTheBall) | [demo](https://littlegauze.github.io/flipTheBall/build/web-mobile/)|
+|Cocos2048|[github](https://littlegauze.github.io/Cocos2048)|[demo](https://littlegauze.github.io/Cocos2048/build/web-mobile/)|
+|dungeons| [github](https://github.com/littleGauze/dungeons) | [demo](https://littlegauze.github.io/dungeons/build/)|
+|hanoi-towers| [github](https://github.com/littleGauze/hanoi-towers) | [demo](https://littlegauze.github.io/hanoi-towers/build/)|
+|fly-cutter| [github](https://github.com/littleGauze/fly-cutter) | [demo](https://littlegauze.github.io/fly-cutter/build/web-mobile/)|
+|life-game| [github](https://github.com/littleGauze/life-game) | [demo](https://littlegauze.github.io/life-game/build/)|
