@@ -16,4 +16,4 @@ Node.js fullStack developer, [littleGauze](https://github.com/littleGauze)
 |dungeons| [github](https://github.com/littleGauze/dungeons) | [demo](https://littlegauze.github.io/dungeons/build/web-desktop/)|
 |hanoi-towers| [github](https://github.com/littleGauze/hanoi-towers) | [demo](https://littlegauze.github.io/hanoi-towers/build/web-mobile/)|
 |fly-cutter| [github](https://github.com/littleGauze/fly-cutter) | [demo](https://littlegauze.github.io/fly-cutter/build/web-mobile/)|
-|life-game| [github](https://github.com/littleGauze/life-game) | [demo](https://littlegauze.github.io/life-game/build/)|
+|life-game| [github](https://github.com/littleGauze/life-game) | [demo](https://littlegauze.github.io/life-game/build/web-mobile/)|
